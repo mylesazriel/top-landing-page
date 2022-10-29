@@ -1,0 +1,45 @@
+* {
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+/* Section 1 */
+header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    display: flex;
+    padding: 20px 0px;
+    justify-content: space-between;
+    margin: auto;
+    width: 80%;
+}
+
+.header-logo-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-links {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+a {
+    color: #F9FAF8;
+    text-decoration: none;
+}
+
+.hero-content {
+    display: flex;
+}
+
