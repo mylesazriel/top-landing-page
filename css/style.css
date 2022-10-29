@@ -104,6 +104,10 @@ a {
     gap: 20px;
 }
 
+h1 {
+    color: #1F2937;
+}
+
 .frame {
     height: 175px;
     width: 175px;
@@ -115,4 +119,34 @@ a {
 .project-text {
     text-align: center;
     padding: 10px 0px;
+    color: #1F2937;
+}
+
+/* Section 3 */
+.section-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.quote-section-container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    margin-top: 125px;
+}
+
+.author {
+    font-size: 32px;
+    font-weight: bold;
+    color: #1F2937;
+    align-self: flex-end;
+    margin-bottom: 125px;
 }
