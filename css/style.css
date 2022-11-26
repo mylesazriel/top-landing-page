@@ -57,7 +57,6 @@ a {
     display: flex;
     flex-direction: column;
     gap: 10px;
-
 }
 
 .hero-main-text {
@@ -68,7 +67,6 @@ a {
 .hero-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
-    margin: 20px 0px;
 }
 
 .hero-signup {
@@ -77,10 +75,8 @@ a {
     color: #F9FAF8;
     font-size: 18px;
     border-radius: 7px;
-    padding: 10px 20px;
-    width: 125px;
-    cursor: pointer;
-
+    padding: 5px 25px;
+    width: 35%;
 }
 
 .hero-image {
@@ -172,8 +168,7 @@ h1 {
     width: 80%;
     padding: 50px;
     border-radius: 15px;
-    justify-content: space-between;
-
+    justify-content: space-around;
 }
 
 .cta-head {
@@ -183,7 +178,6 @@ h1 {
 
 .cta-text {
     font-size: 20px;
-
 }
 
 .cta-signup {
@@ -193,8 +187,6 @@ h1 {
     font-size: 18px;
     border-radius: 7px;
     padding: 5px 25px;
-    align-self: flex-end;
-    cursor: pointer;
 }
 
 /* Footer */
@@ -205,3 +197,4 @@ footer {
     justify-content: center;
     padding: 40px;
 }
+
