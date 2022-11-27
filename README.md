@@ -1,6 +1,6 @@
 # The Odin Project: Landing Page
 
-A project to practice my HTMl and CSS skills, creating a landing page based on a given design.
+A project to practice my HTML and CSS skills, creating a landing page based on a given design.
 
 View the [live preview](https://mylesazriel.github.io/top-landing-page/)
 
